@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A simple weather application built using React that fetches current weather information based on the user's location or a search query. The app utilizes the WeatherStack API to get real-time weather data.
@@ -48,3 +49,6 @@ A simple weather application built using React that fetches current weather info
 **Troubleshooting**:
     1.  API Rate Limit: If you are receiving an error about exceeding the API request limit, it may be due to the limitations of the free WeatherStack plan. Consider upgrading your plan or using another weather API.
     2. Geolocation Errors: Ensure that your browser has the necessary permissions to access your location.
+=======
+# weather-application
+>>>>>>> 0f7208ade02ce355fc331d4a6f3d09b7ff87637f
