@@ -46,9 +46,7 @@ A simple weather application built using React that fetches current weather info
     
     Then, modify the API request to use the environment variable:
       const apiKey = process.env.REACT_APP_WEATHERSTACK_API_KEY;
-**Troubleshooting**:
+**Troubleshooting**
+
     1.  API Rate Limit: If you are receiving an error about exceeding the API request limit, it may be due to the limitations of the free WeatherStack plan. Consider upgrading your plan or using another weather API.
     2. Geolocation Errors: Ensure that your browser has the necessary permissions to access your location.
-=======
-# weather-application
->>>>>>> 0f7208ade02ce355fc331d4a6f3d09b7ff87637f
