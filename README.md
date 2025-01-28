@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+  
 # Weather App
 
 A simple weather application built using React that fetches current weather information based on the user's location or a search query. The app utilizes the WeatherStack API to get real-time weather data.
