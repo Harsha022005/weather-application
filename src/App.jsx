@@ -8,7 +8,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  const BASE_URL = "http://api.weatherapi.com/v1";
+  const BASE_URL = "https://api.weatherapi.com/v1";
 
   useEffect(() => {
     // Load demo data on initial load
